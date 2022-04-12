@@ -1,5 +1,5 @@
 # Us3r Unl0ck3d
-Us3r Unl0ck3d is a permissions scanner built to scan any Linux environment and return all accesible files by the currenty logged-in user.
+Us3r Unl0ck3d is a permissions scanner built to scan any Linux environment and return all accessible files by the currently logged-in user.
 
 ## Usage
 ```bash
