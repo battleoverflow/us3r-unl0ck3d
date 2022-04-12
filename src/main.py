@@ -1,6 +1,14 @@
 from subprocess import getoutput
 import argparse
 
+###############################################
+#                                             #
+#   Us3r Unl0ck3d                             #
+#   Author: Hifumi1337                        #
+#   GitHub: https://github.com/Hifumi1337     #
+#                                             #
+###############################################
+
 parser = argparse.ArgumentParser()
 parser.add_argument('-o', '--octal', type=int, default=777, required=False, help="Type your octal as an integer (Ex: 777)")
 parser.add_argument('-f', '--file', default=False, required=False, help="Store the output in a file (Format: log_<OCTAL>.txt)", action="store_true")
