@@ -1,13 +1,13 @@
 # Us3r Unl0ck3d
-Us3r Unl0ck3d is a permissions scanner built to scan most Linux and Windows environments, and return all accessible files by the currently logged-in user.
+Us3r Unl0ck3d is a permissions scanner built to scan most Linux and Windows environments and return all accessible files by the currently logged-in user.
 
 ## Usage
 ```bash
-$ python3 src/main.py
+python3 src/main.py
 ```
 
 ### Options
-```bash
+```
 -h, --help          |   Displays help menu
 -o, --octal         |   Type your octal as an integer to search for specific permissions (Ex: 777)
 -f, --file          |   Store the output in a file (Format: log_<OCTAL>.txt)
@@ -35,7 +35,7 @@ Searches the entire home directory of the logged-in user recursively
 > py src/main.py -r
 ```
 
-Searches the root system (C:\), outputting all data to a file and displaying the output to the terminal recursively
+Searches the root system (`C:\`), exporting all data to a file and displaying the output to the terminal recursively
 ```powershell
 > py src/main.py -rfv
 ```
