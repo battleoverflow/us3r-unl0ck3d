@@ -4,8 +4,8 @@ import argparse, platform
 ###############################################
 #                                             #
 #   Us3r Unl0ck3d                             #
-#   Author: azazelm3dj3d                      #
-#   GitHub: https://github.com/azazelm3dj3d   #
+#   Author: battleoverflow                    #
+#   GitHub: https://github.com/battleoverflow #
 #                                             #
 ###############################################
 
@@ -26,9 +26,9 @@ class Us3rUnl0ck3d:
         #################################################################
         #                                                               #
         #   Us3r Unl0ck3d                                               #
-        #   Author: azazelm3dj3d                                        #
-        #   GitHub: https://github.com/azazelm3dj3d                     #
-        #   Repository: https://github.com/azazelm3dj3d/us3r-unl0ck3d   #
+        #   Author: battleoverflow                                      #
+        #   GitHub: https://github.com/battleoverflow                   #
+        #   Repository: https://github.com/battleoverflow/us3r-unl0ck3d #
         #                                                               #
         #################################################################
         v{version}
